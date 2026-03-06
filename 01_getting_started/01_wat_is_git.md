@@ -1,7 +1,7 @@
 
 # Wat is Git? 
 wat denk jij dat git is?
-ik denk dat ik niet wil denken.
+vxvxdkjxdvbjzkbfvjhbxdljlfbvvljhdhlbfvbvoiab
 
 | Git is een versie controle systeem (of source controle systeem). |
 | -----	| 
