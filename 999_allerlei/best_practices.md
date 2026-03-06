@@ -13,4 +13,4 @@
 | Always test after a merge | 
 | If it hurts, do it more often|
 | branch features, not persons |
-#####
+#####Bite me
